@@ -8,7 +8,7 @@
 - Ubicación: https://goo.gl/maps/wzp2JMxPUyz
 - Horario: Sabados de 8 a 13 Horas
 - Inicio: 01-ABR-2017
-- Página: https://gcoronelc.github.io/CEPSUNI_FUND_PROG_005/
+- Página: https://gcoronelc.github.io/CEPSUNI_FUND_PROG_001/
 - Código fuente: https://goo.gl/GRaOQg
 
 
