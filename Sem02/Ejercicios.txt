@@ -14,10 +14,9 @@ Los datos de entrada son:
 Ejercicio 2
 ===========
 
-Desarrollar un programa para
-encontrar el promedio de un
-estudiante de Java, las notas
-son:
+Desarrollar un programa para encontrar 
+el promedio de un estudiante de Java, 
+las notas son:
 
   - promedio de practicas (40%)
   - examen parcial (20%)
