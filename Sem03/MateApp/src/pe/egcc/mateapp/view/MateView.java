@@ -14,11 +14,9 @@ import pe.egcc.mateapp.service.MateService;
  */
 public class MateView extends javax.swing.JFrame {
 
-  /**
-   * Creates new form MateView
-   */
   public MateView() {
     initComponents();
+    this.setLocationRelativeTo(null);
   }
 
   /**
