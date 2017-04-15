@@ -5,7 +5,6 @@
  */
 package pe.ceps.uni.apppromedio.prueba;
 
-import java.awt.BorderLayout;
 import pe.ceps.uni.apppromedio.services.PromedioServices;
 
 /**
